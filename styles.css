@@ -1,3 +1,36 @@
 table,td {
-    border:2px solid rgb(3, 0, 0);
+    color:rgb(236, 17, 10);
+    border:3px solid rgb(14, 29, 231);
+    font-size: 20px;
 }
+
+img {
+    border-radius: 50%;
+    height: 320px;
+    width: 320px;
+
+    border-style: dotted;
+    border-width: 10px;
+    
+  }
+  h1{
+    
+    border-style: dotted;
+    border-width: 5px;
+    
+  }
+  
+  h3{
+    border-style: dotted;
+    border-width: 5px;
+  }
+
+  body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: rgb(238, 236, 241);
+    background-image: linear-gradient(rgb(241, 188, 13), rgb(172, 175, 6));
+    font-size: 30px;
+    font-weight: bold;  
+  }
